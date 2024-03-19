@@ -1,0 +1,18 @@
+@charset "utf-8";
+.title1 {
+	color: #3B22E3;
+	font-size: large;
+	text-align: center;
+}
+
+.main1 {
+	color: #E0383A;
+}
+
+.main2 {
+	color: #1CC945;
+}
+#caption img {
+	-webkit-box-shadow: -10px -4px 9px;
+	box-shadow: -10px -4px 9px;
+}
