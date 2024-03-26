@@ -1,4 +1,9 @@
 @charset "utf-8";
 body {
-	background-color: #191DD6;
+	background-color: #6265F4;
+}
+h1 {
+	font-family: "標楷體", "微軟正黑體", "細明體";
+}
+p {
 }
